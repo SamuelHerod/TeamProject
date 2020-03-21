@@ -1,0 +1,9 @@
+C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\Definitions.VideoGameModule.h
+C:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Source\VideoGameModule/WeaponTest2.h
+C:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+C:\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
+c:\users\george\documents\unreal projects\teamproject\videogamemodule\intermediate\build\win64\ue4editor\inc\videogamemodule\WeaponTest2.generated.h

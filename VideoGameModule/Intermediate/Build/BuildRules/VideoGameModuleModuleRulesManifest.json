@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\George\\Documents\\Unreal Projects\\TeamProject\\VideoGameModule\\Source\\VideoGameModule\\VideoGameModule.Build.cs",
+		"C:\\Users\\George\\Documents\\Unreal Projects\\TeamProject\\VideoGameModule\\Source\\VideoGameModule.Target.cs",
+		"C:\\Users\\George\\Documents\\Unreal Projects\\TeamProject\\VideoGameModule\\Source\\VideoGameModuleEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}

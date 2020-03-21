@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VideoGameModule-2475.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\VideoGameModuleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\UniTPCharacter.cpp.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\VideoGameModule.cpp.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\WeaponTest2.cpp.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\UniTPCharacter.gen.cpp.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\VideoGameModule.init.gen.cpp.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\WeaponTest2.gen.cpp.obj"
+"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\Default.rc2.res"
+/OUT:"C:\Users\George\Documents\Unreal Projects\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\UE4Editor-VideoGameModule-2475.lib"
+/INCLUDE:IMPLEMENT_MODULE_VideoGameModule

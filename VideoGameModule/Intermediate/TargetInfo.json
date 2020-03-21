@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VideoGameModule",
+			"Path": "C:\\Users\\George\\Documents\\Unreal Projects\\TeamProject\\VideoGameModule\\Source\\VideoGameModule.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VideoGameModuleEditor",
+			"Path": "C:\\Users\\George\\Documents\\Unreal Projects\\TeamProject\\VideoGameModule\\Source\\VideoGameModuleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
