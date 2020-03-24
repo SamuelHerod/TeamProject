@@ -1,0 +1,2 @@
+D:\GitHub\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\Definitions.VideoGameModule.h
+D:\GitHub\TeamProject\VideoGameModule\Source\VideoGameModule\VideoGameModule.h
