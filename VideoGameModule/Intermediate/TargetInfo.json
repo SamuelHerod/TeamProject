@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VideoGameModule",
+			"Path": "E:\\Github\\TeamProject\\VideoGameModule\\Source\\VideoGameModule.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VideoGameModuleEditor",
+			"Path": "E:\\Github\\TeamProject\\VideoGameModule\\Source\\VideoGameModuleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

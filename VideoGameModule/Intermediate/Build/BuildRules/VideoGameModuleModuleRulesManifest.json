@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Github\\TeamProject\\VideoGameModule\\Source\\VideoGameModule\\VideoGameModule.Build.cs",
+		"E:\\Github\\TeamProject\\VideoGameModule\\Source\\VideoGameModule.Target.cs",
+		"E:\\Github\\TeamProject\\VideoGameModule\\Source\\VideoGameModuleEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}
