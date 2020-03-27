@@ -1,0 +1,3 @@
+C:\Users\georg\Documents\GitHub\TeamProject\VideoGameModule\Intermediate\Build\Win64\UE4Editor\Development\VideoGameModule\Definitions.VideoGameModule.h
+D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
